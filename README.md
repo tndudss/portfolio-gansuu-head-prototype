@@ -10,9 +10,9 @@ Unity로 제작한 개인 포트폴리오용 게임 프로토타입입니다. �
 | --- | --- |
 | PC 브라우저에서 플레이 | [PC Web 0.1.1](https://gansuu-head-web.tndudss78.chatgpt.site/) |
 | 모바일 브라우저에서 플레이 | [Mobile Web 0.1.1](https://gansuu-head-mobile.tndudss78.chatgpt.site/) |
-| Windows 실행 파일 다운로드 | [Windows 0.1.1-rc1 릴리스](https://github.com/tndudss/gansuu-head-prototype/releases/tag/v0.1.1-rc1) |
-| PC 웹 빌드 다운로드 | [PC Web 0.1.1 ZIP](https://github.com/tndudss/gansuu-head-prototype/releases/download/v0.1.1-rc1/GansuuHead_PC_Web_0.1.1.zip) |
-| 모바일 웹 빌드 다운로드 | [Mobile Web 0.1.1 ZIP](https://github.com/tndudss/gansuu-head-prototype/releases/download/v0.1.1-rc1/GansuuHead_Mobile_Web_0.1.1.zip) |
+| Windows 실행 파일 다운로드 | [Windows 0.1.1-rc1 릴리스](https://github.com/tndudss/portfolio-gansuu-head-prototype/releases/tag/v0.1.1-rc1) |
+| PC 웹 빌드 다운로드 | [PC Web 0.1.1 ZIP](https://github.com/tndudss/portfolio-gansuu-head-prototype/releases/download/v0.1.1-rc1/GansuuHead_PC_Web_0.1.1.zip) |
+| 모바일 웹 빌드 다운로드 | [Mobile Web 0.1.1 ZIP](https://github.com/tndudss/portfolio-gansuu-head-prototype/releases/download/v0.1.1-rc1/GansuuHead_Mobile_Web_0.1.1.zip) |
 | Unity 에디터용 소스 | 이 저장소를 클론하거나 **Code → Download ZIP** |
 
 웹 배포의 버전은 `0.1.1`이며, 이 저장소에 올린 PC 소스와 실행 파일은 사용자가 지정한 `0.1.1-rc1`입니다. 웹 프로젝트 소스는 이 저장소에 포함하지 않습니다.
