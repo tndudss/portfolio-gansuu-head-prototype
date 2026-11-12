@@ -1,0 +1,88 @@
+{
+  "entries": [
+    {
+      "key": "game.title",
+      "text": "《간수의 머리》"
+    },
+    {
+      "key": "game.instructions",
+      "text": "마우스를 움직여 잠을 쫓으세요. 클릭하거나 누를 필요는 없습니다."
+    },
+    {
+      "key": "menu.choose_duration",
+      "text": "감시 시간 선택"
+    },
+    {
+      "key": "pause.title",
+      "text": "일시정지"
+    },
+    {
+      "key": "pause.resume",
+      "text": "계속하기"
+    },
+    {
+      "key": "result.success",
+      "text": "성공 - 근무 완료"
+    },
+    {
+      "key": "result.failure",
+      "text": "실패 - 잠들었습니다."
+    },
+    {
+      "key": "menu.start",
+      "text": "감시 시작"
+    },
+    {
+      "key": "menu.retry",
+      "text": "다시 시작"
+    },
+    {
+      "key": "mode.duration_minutes",
+      "text": "{0}분"
+    },
+    {
+      "key": "hud.remaining",
+      "text": "남은 시간  {0:00}:{1:00}"
+    },
+    {
+      "key": "hud.drowsiness",
+      "text": "졸음  {0:0}%"
+    },
+    {
+      "key": "dev.status",
+      "text": "개발 시간 x{0:0} | 증가 {1:0.00}/초 | F6 속도  F7 중반  F8 후반  F9 종료 직전"
+    },
+    {
+      "key": "menu.language",
+      "text": "언어"
+    },
+    {
+      "key": "language.ko",
+      "text": "한국어"
+    },
+    {
+      "key": "language.en",
+      "text": "English"
+    },
+    {
+      "key": "pause.main_menu",
+      "text": "메인 메뉴"
+    },
+    {
+      "key": "menu.quit",
+      "text": "게임 종료"
+    },
+    {
+      "key": "quit.question",
+      "text": "게임을 종료하시겠습니까?"
+    },
+    {
+      "key": "quit.confirm",
+      "text": "확인"
+    },
+    {
+      "key": "quit.cancel",
+      "text": "취소"
+    }
+  ]
+}

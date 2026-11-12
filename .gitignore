@@ -1,0 +1,33 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/MemoryCaptures/
+/Recordings/
+
+# Generated IDE and diagnostic files
+/.vs/
+/.idea/
+/.vscode/
+/*.csproj
+/*.sln
+/*.slnx
+/*.suo
+/*.user
+/*.pidb
+/*.booproj
+/*-output.txt
+/*.log
+/*.zip
+/*.7z
+
+# Local credentials and machine configuration
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

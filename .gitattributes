@@ -1,0 +1,13 @@
+* text=auto
+*.cs text
+*.meta text
+*.unity text
+*.prefab text
+*.fbx -text -diff
+*.png -text
+*.jpg -text
+*.otf -text -diff
+*.ttf -text -diff
+*.wav -text
+*.ogg -text
+*.dll -text -diff

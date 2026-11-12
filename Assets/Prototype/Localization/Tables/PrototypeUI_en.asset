@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PrototypeUI_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c482a3ff85513d74a9de00aad773bcc6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1140625408
+    m_Localized: THE WARDEN'S HEAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1169985536
+    m_Localized: Move your mouse to stay awake. No click or drag needed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179840
+    m_Localized: Choose shift duration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179841
+    m_Localized: PAUSED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179842
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179843
+    m_Localized: SUCCESS - Shift complete!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179844
+    m_Localized: FAILURE - You fell asleep.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179845
+    m_Localized: Start shift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179846
+    m_Localized: Try again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179847
+    m_Localized: '{0} min'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179848
+    m_Localized: Remaining  {0:00}:{1:00}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179849
+    m_Localized: Drowsiness  {0:0}%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179850
+    m_Localized: DEV clock x{0:0} | Rate {1:0.00}/s | F6 speed  F7 rise  F8 high  F9 finale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179851
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179852
+    m_Localized: "\uD55C\uAD6D\uC5B4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179853
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279701024968704
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279701054328832
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279701054328833
+    m_Localized: Quit the game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279701054328834
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279701054328835
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,299 @@
+{
+  "version": "5.2.2 LTS",
+  "source": "C:\\Users\\\uac1c\ubc1c\uac1c\ubc1c\\Documents\\ChatGPT\\\uac04\uc218\uc758 \uba38\ub9ac 2\\character-v1\\output\\Prisoner_V1.blend",
+  "sourceSha256": "55d022fdf9efa8e01b2f091fe6e7e1d4cc4dc12c462469915876f1131b689e63",
+  "retainedV1SkullVertices": 12416,
+  "retainedV1BodyVertices": 18958,
+  "bodyVertices": 41590,
+  "faceVertices": 28788,
+  "stitchedFacePatches": [
+    {
+      "type": "eye",
+      "boundaryVertices": 48,
+      "connectedToV1Skull": true
+    },
+    {
+      "type": "eye",
+      "boundaryVertices": 48,
+      "connectedToV1Skull": true
+    },
+    {
+      "type": "mouth",
+      "boundaryVertices": 70,
+      "connectedToV1Skull": true
+    }
+  ],
+  "shapeKeys": [
+    {
+      "name": "Basis",
+      "maxDelta": 0.0,
+      "changedVertices": 0
+    },
+    {
+      "name": "Smile",
+      "maxDelta": 0.011976766354597122,
+      "changedVertices": 8056
+    },
+    {
+      "name": "WideGrin",
+      "maxDelta": 0.023085083729115902,
+      "changedVertices": 14192
+    },
+    {
+      "name": "CheekRaise",
+      "maxDelta": 0.01029051443293747,
+      "changedVertices": 13090
+    },
+    {
+      "name": "EyesNarrow",
+      "maxDelta": 0.008479914790320507,
+      "changedVertices": 960
+    },
+    {
+      "name": "JawOpen",
+      "maxDelta": 0.02081172972870414,
+      "changedVertices": 7557
+    },
+    {
+      "name": "MouthOpen",
+      "maxDelta": 0.019504516529915018,
+      "changedVertices": 7223
+    }
+  ],
+  "materials": [
+    {
+      "name": "Skin",
+      "color": [
+        0.48,
+        0.435,
+        0.375
+      ],
+      "roughness": 0.82,
+      "metallic": 0,
+      "texturePrefix": "Skin"
+    },
+    {
+      "name": "Weathered_Lips",
+      "color": [
+        0.37,
+        0.285,
+        0.255
+      ],
+      "roughness": 0.7,
+      "metallic": 0,
+      "texturePrefix": "Skin"
+    },
+    {
+      "name": "Creases",
+      "color": [
+        0.28,
+        0.24,
+        0.2
+      ],
+      "roughness": 0.7,
+      "metallic": 0,
+      "texturePrefix": ""
+    },
+    {
+      "name": "Sclera_Ivory",
+      "color": [
+        0.65,
+        0.635,
+        0.58
+      ],
+      "roughness": 0.36,
+      "metallic": 0,
+      "texturePrefix": ""
+    },
+    {
+      "name": "Iris_Olive",
+      "color": [
+        0.17,
+        0.185,
+        0.14
+      ],
+      "roughness": 0.38,
+      "metallic": 0,
+      "texturePrefix": ""
+    },
+    {
+      "name": "Pupil",
+      "color": [
+        0.012,
+        0.014,
+        0.012
+      ],
+      "roughness": 0.38,
+      "metallic": 0,
+      "texturePrefix": ""
+    },
+    {
+      "name": "Eye_Catchlight",
+      "color": [
+        0.8500000238418579,
+        0.8999999761581421,
+        0.8399999737739563
+      ],
+      "roughness": 0.7,
+      "metallic": 0,
+      "texturePrefix": ""
+    },
+    {
+      "name": "Mouth_Interior",
+      "color": [
+        0.18,
+        0.105,
+        0.095
+      ],
+      "roughness": 0.7,
+      "metallic": 0,
+      "texturePrefix": ""
+    },
+    {
+      "name": "Teeth_Aged",
+      "color": [
+        0.66,
+        0.625,
+        0.53
+      ],
+      "roughness": 0.7,
+      "metallic": 0,
+      "texturePrefix": ""
+    },
+    {
+      "name": "Stubble",
+      "color": [
+        0.21,
+        0.2,
+        0.17
+      ],
+      "roughness": 0.7,
+      "metallic": 0,
+      "texturePrefix": ""
+    },
+    {
+      "name": "Uniform_Light",
+      "color": [
+        0.35,
+        0.34,
+        0.3
+      ],
+      "roughness": 0.96,
+      "metallic": 0,
+      "texturePrefix": "Cloth"
+    },
+    {
+      "name": "Uniform_Dark",
+      "color": [
+        0.18,
+        0.19,
+        0.17
+      ],
+      "roughness": 0.96,
+      "metallic": 0,
+      "texturePrefix": "Cloth"
+    },
+    {
+      "name": "Seam_Thread",
+      "color": [
+        0.29,
+        0.28,
+        0.24
+      ],
+      "roughness": 0.96,
+      "metallic": 0,
+      "texturePrefix": "Cloth"
+    },
+    {
+      "name": "Oxidized_Button",
+      "color": [
+        0.15000000596046448,
+        0.13500000536441803,
+        0.09000000357627869
+      ],
+      "roughness": 0.7,
+      "metallic": 0,
+      "texturePrefix": ""
+    },
+    {
+      "name": "Number_Patch",
+      "color": [
+        0.39,
+        0.37,
+        0.3
+      ],
+      "roughness": 0.96,
+      "metallic": 0,
+      "texturePrefix": "Cloth"
+    },
+    {
+      "name": "Fingernails",
+      "color": [
+        0.45,
+        0.4,
+        0.34
+      ],
+      "roughness": 0.7,
+      "metallic": 0,
+      "texturePrefix": "Skin"
+    },
+    {
+      "name": "Test_Iron",
+      "color": [
+        0.17,
+        0.185,
+        0.18
+      ],
+      "roughness": 0.72,
+      "metallic": 0.82,
+      "texturePrefix": "Iron"
+    },
+    {
+      "name": "Gums",
+      "color": [
+        0.23000000417232513,
+        0.14499999582767487,
+        0.125
+      ],
+      "roughness": 0.7,
+      "metallic": 0,
+      "texturePrefix": ""
+    },
+    {
+      "name": "Worn_Shoes",
+      "color": [
+        0.08500000089406967,
+        0.07999999821186066,
+        0.06499999761581421
+      ],
+      "roughness": 0.7,
+      "metallic": 0,
+      "texturePrefix": ""
+    }
+  ],
+  "characterObjects": [
+    "Prisoner_V2_Rig",
+    "Stitched_Prison_Number_Patch",
+    "Prison_Number_0417",
+    "Grip_Left",
+    "Grip_Right",
+    "Prisoner_Face",
+    "Prisoner_Uniform_Arms_Hands",
+    "Collar_-1",
+    "Collar_1"
+  ],
+  "lowerBody": "Pelvis, trouser thighs/knees/calves, two worn shoes; fixed pose",
+  "gripContactRadius": 0.0275,
+  "textureFiles": [
+    "Skin_Base",
+    "Cloth_Base",
+    "Iron_Base",
+    "Skin_Normal",
+    "Cloth_Normal",
+    "Iron_Normal",
+    "Skin_Surface",
+    "Cloth_Surface",
+    "Iron_Surface"
+  ],
+  "savedNeutral": true
+}

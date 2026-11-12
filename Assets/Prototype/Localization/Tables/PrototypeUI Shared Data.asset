@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: PrototypeUI Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: PrototypeUI
+  m_TableCollectionNameGuidString: c482a3ff85513d74a9de00aad773bcc6
+  m_Entries:
+  - m_Id: 1140625408
+    m_Key: game.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1169985536
+    m_Key: game.instructions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179840
+    m_Key: menu.choose_duration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179841
+    m_Key: pause.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179842
+    m_Key: pause.resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179843
+    m_Key: result.success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179844
+    m_Key: result.failure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179845
+    m_Key: menu.start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179846
+    m_Key: menu.retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179847
+    m_Key: mode.duration_minutes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179848
+    m_Key: hud.remaining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179849
+    m_Key: hud.drowsiness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179850
+    m_Key: dev.status
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179851
+    m_Key: menu.language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179852
+    m_Key: language.ko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1174179853
+    m_Key: language.en
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279701024968704
+    m_Key: pause.main_menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279701054328832
+    m_Key: menu.quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279701054328833
+    m_Key: quit.question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279701054328834
+    m_Key: quit.confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279701054328835
+    m_Key: quit.cancel
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3706831263785549919
+  references:
+    version: 2
+    RefIds:
+    - rid: 3706831263785549919
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1792401306819

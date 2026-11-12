@@ -1,0 +1,88 @@
+{
+  "entries": [
+    {
+      "key": "game.title",
+      "text": "THE WARDEN'S HEAD"
+    },
+    {
+      "key": "game.instructions",
+      "text": "Move your mouse to stay awake. No click or drag needed."
+    },
+    {
+      "key": "menu.choose_duration",
+      "text": "Choose shift duration"
+    },
+    {
+      "key": "pause.title",
+      "text": "PAUSED"
+    },
+    {
+      "key": "pause.resume",
+      "text": "Resume"
+    },
+    {
+      "key": "result.success",
+      "text": "SUCCESS - Shift complete!"
+    },
+    {
+      "key": "result.failure",
+      "text": "FAILURE - You fell asleep."
+    },
+    {
+      "key": "menu.start",
+      "text": "Start shift"
+    },
+    {
+      "key": "menu.retry",
+      "text": "Try again"
+    },
+    {
+      "key": "mode.duration_minutes",
+      "text": "{0} min"
+    },
+    {
+      "key": "hud.remaining",
+      "text": "Remaining  {0:00}:{1:00}"
+    },
+    {
+      "key": "hud.drowsiness",
+      "text": "Drowsiness  {0:0}%"
+    },
+    {
+      "key": "dev.status",
+      "text": "DEV clock x{0:0} | Rate {1:0.00}/s | F6 speed  F7 rise  F8 high  F9 finale"
+    },
+    {
+      "key": "menu.language",
+      "text": "Language"
+    },
+    {
+      "key": "language.ko",
+      "text": "한국어"
+    },
+    {
+      "key": "language.en",
+      "text": "English"
+    },
+    {
+      "key": "pause.main_menu",
+      "text": "Main Menu"
+    },
+    {
+      "key": "menu.quit",
+      "text": "Quit Game"
+    },
+    {
+      "key": "quit.question",
+      "text": "Quit the game?"
+    },
+    {
+      "key": "quit.confirm",
+      "text": "Confirm"
+    },
+    {
+      "key": "quit.cancel",
+      "text": "Cancel"
+    }
+  ]
+}

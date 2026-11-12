@@ -1,0 +1,259 @@
+{
+  "version": "5.2.2 LTS",
+  "seed": 417,
+  "materials": [
+    {
+      "name": "Env_Stone_0",
+      "color": [
+        0.58,
+        0.59,
+        0.57
+      ],
+      "texturePrefix": "Stone",
+      "metallic": 0,
+      "smoothness": 0.12
+    },
+    {
+      "name": "Env_Stone_1",
+      "color": [
+        0.5,
+        0.54,
+        0.55
+      ],
+      "texturePrefix": "Stone",
+      "metallic": 0,
+      "smoothness": 0.12
+    },
+    {
+      "name": "Env_Stone_2",
+      "color": [
+        0.64,
+        0.62,
+        0.55
+      ],
+      "texturePrefix": "Stone",
+      "metallic": 0,
+      "smoothness": 0.12
+    },
+    {
+      "name": "Env_Stone_3",
+      "color": [
+        0.47,
+        0.5,
+        0.49
+      ],
+      "texturePrefix": "Stone",
+      "metallic": 0,
+      "smoothness": 0.12
+    },
+    {
+      "name": "Env_Mortar",
+      "color": [
+        0.24,
+        0.25,
+        0.24
+      ],
+      "texturePrefix": "Stone",
+      "metallic": 0,
+      "smoothness": 0.04
+    },
+    {
+      "name": "Env_Floor",
+      "color": [
+        0.52,
+        0.53,
+        0.49
+      ],
+      "texturePrefix": "Floor",
+      "metallic": 0,
+      "smoothness": 0.1
+    },
+    {
+      "name": "Env_WroughtIron",
+      "color": [
+        0.3,
+        0.32,
+        0.33
+      ],
+      "texturePrefix": "Iron",
+      "metallic": 0.85,
+      "smoothness": 0.26
+    },
+    {
+      "name": "Env_WornIron",
+      "color": [
+        0.39,
+        0.38,
+        0.32
+      ],
+      "texturePrefix": "Iron",
+      "metallic": 0.72,
+      "smoothness": 0.3
+    },
+    {
+      "name": "Env_OldOak",
+      "color": [
+        0.34,
+        0.27,
+        0.19
+      ],
+      "texturePrefix": "Wood",
+      "metallic": 0,
+      "smoothness": 0.06
+    },
+    {
+      "name": "Env_Bedding",
+      "color": [
+        0.29,
+        0.3,
+        0.26
+      ],
+      "texturePrefix": "Floor",
+      "metallic": 0,
+      "smoothness": 0.02
+    },
+    {
+      "name": "Env_LanternGlass",
+      "color": [
+        0.65,
+        0.48,
+        0.25
+      ],
+      "texturePrefix": "",
+      "metallic": 0.1,
+      "smoothness": 0.18
+    }
+  ],
+  "textures": [
+    "Stone_Base",
+    "Stone_Normal",
+    "Stone_Surface",
+    "Floor_Base",
+    "Floor_Normal",
+    "Floor_Surface",
+    "Iron_Base",
+    "Iron_Normal",
+    "Iron_Surface",
+    "Wood_Base",
+    "Wood_Normal",
+    "Wood_Surface"
+  ],
+  "meshes": [
+    {
+      "name": "Masonry_Cores",
+      "vertices": 96,
+      "triangles": 176
+    },
+    {
+      "name": "Back_Masonry",
+      "vertices": 1368,
+      "triangles": 2508
+    },
+    {
+      "name": "Side_Masonry_-1",
+      "vertices": 1752,
+      "triangles": 3212
+    },
+    {
+      "name": "Side_Masonry_1",
+      "vertices": 1704,
+      "triangles": 3124
+    },
+    {
+      "name": "Flagstone_Floor",
+      "vertices": 1488,
+      "triangles": 2728
+    },
+    {
+      "name": "Barrel_Vault",
+      "vertices": 3024,
+      "triangles": 5544
+    },
+    {
+      "name": "Stone_Trim",
+      "vertices": 1152,
+      "triangles": 2112
+    },
+    {
+      "name": "Vault_Ribs",
+      "vertices": 864,
+      "triangles": 1584
+    },
+    {
+      "name": "Portal_Stone",
+      "vertices": 408,
+      "triangles": 748
+    },
+    {
+      "name": "Gate_Bars",
+      "vertices": 256,
+      "triangles": 480
+    },
+    {
+      "name": "Gate_Hardware",
+      "vertices": 1136,
+      "triangles": 2072
+    },
+    {
+      "name": "Gate_Frame",
+      "vertices": 144,
+      "triangles": 264
+    },
+    {
+      "name": "Oak_Bench",
+      "vertices": 216,
+      "triangles": 396
+    },
+    {
+      "name": "Bedding",
+      "vertices": 24,
+      "triangles": 44
+    },
+    {
+      "name": "Bucket",
+      "vertices": 32,
+      "triangles": 60
+    },
+    {
+      "name": "Bucket_Bands",
+      "vertices": 64,
+      "triangles": 120
+    },
+    {
+      "name": "Wall_Anchors",
+      "vertices": 96,
+      "triangles": 176
+    },
+    {
+      "name": "Lantern",
+      "vertices": 24,
+      "triangles": 44
+    },
+    {
+      "name": "Lantern_Cage",
+      "vertices": 120,
+      "triangles": 216
+    },
+    {
+      "name": "Sparse_Cracks",
+      "vertices": 104,
+      "triangles": 156
+    }
+  ],
+  "triangles": 25764,
+  "gripBarRadius": 0.0275,
+  "gripCenters": [
+    [
+      -0.48,
+      1.72,
+      2.65
+    ],
+    [
+      0.48,
+      1.72,
+      2.65
+    ]
+  ],
+  "backWallZ": 6.7,
+  "license": "All geometry and procedural textures authored by this script for this project. No external assets or textures."
+}
