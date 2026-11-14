@@ -8,6 +8,7 @@ Unity로 제작한 개인 포트폴리오용 게임 프로토타입입니다. �
 
 | 용도 | 링크 |
 | --- | --- |
+| 시연 영상 | [프로토타입 시연 영상 보기](https://drive.google.com/file/d/1AcJozevUZk_GqpmJTBYOQS4W045ZNTjD/view) |
 | PC 브라우저에서 플레이 | [PC Web 0.1.1](https://gansuu-head-web.tndudss78.chatgpt.site/) |
 | 모바일 브라우저에서 플레이 | [Mobile Web 0.1.1](https://gansuu-head-mobile.tndudss78.chatgpt.site/) |
 | Windows 실행 파일 다운로드 | [Windows 0.1.1-rc1 릴리스](https://github.com/tndudss/portfolio-gansuu-head-prototype/releases/tag/v0.1.1-rc1) |
