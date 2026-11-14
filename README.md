@@ -6,7 +6,7 @@ Unity로 제작한 개인 포트폴리오용 게임 프로토타입입니다. �
 
 ## 시연 영상
 
-https://github.com/user-attachments/assets/e4d5b25b-ef56-4a4d-903e-789131faa9fc
+https://github.com/user-attachments/assets/1520e851-7465-4b91-a0fd-a783e705ef1c
 
 ## 플레이 및 다운로드
 
